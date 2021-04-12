@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6tplUtq0Fx3leMnf9kjyfcaw01SoyBbruvP2aVP0Fi73PHht29/RjdmuvHwvq2zQ2GCrqw9e7HnXUZgZH9rJGg==",
+  "success": true,
+  "projectFilePath": "C:\\dio\\mongo-dio\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doni\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\doni\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\doni\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\doni\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\doni\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\doni\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
