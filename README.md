@@ -17,3 +17,5 @@ Passo a passo
 connect string: mongodb+srv://api:@cluster0.p1nqo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
 Projeto exemplo github: https://github.com/gabrielfbarros/dotnet-mongo/tree/master/Api
+
+Criado projeto Asp.net MVC core API
